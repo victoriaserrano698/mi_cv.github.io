@@ -1,0 +1,94 @@
+*{
+    margin: 10px 0px;
+    font-family: 'Courier New', Courier, monospace;
+    background-color: azure;
+    
+}
+body{
+    margin: 0%;
+}
+.container {
+    padding: 10px;
+    
+}
+.titulo1{
+	margin: 1rem 0.5em;
+	font-size: 4em;
+	font-weight: 300;
+	text-align: center;
+}
+.cabecera{
+    color: #fa8072;
+    text-shadow: -1px -2px #fa807271;
+    font-size: larger;
+    }
+    .text-center{
+        text-align: left;
+    }
+.contenedor{
+    background-color: #fa8072;
+    text-decoration: none;
+    text-align: right;
+    font-size:large;
+}
+.form-horizontal{
+    color: #fa8072;
+    text-align: center;
+    text-shadow: -2px -2px #fa807271;
+    font-size: larger;
+}
+#fname{
+    border-radius: 12.5%;
+    border-color: #fa807271;
+}
+#lname{
+    border-radius: 12.5%;
+    border-color: #fa807271;
+}
+#email{
+    border-radius: 12.5%;
+    border-color: #fa807271;
+}
+#phone{
+    border-radius: 12.5%;
+    border-color: #fa807271;
+}
+#form-control{
+    border-radius: 12.5%;
+    border-color: #fa807271;
+}
+
+.btn-primary{
+    color: #fa8072;
+    text-align: center;
+    text-shadow: -2px -2px #fa807271;
+    font-size: large;
+border-color: #fa807270;
+border-radius: 12.5%;
+border-color: #fa807271;
+}
+.btn-primary:hover{
+    background-color: #fa807241;
+    
+    text-shadow: -2px -2px #fa807271;
+
+}
+.col-md-12{
+    text-align: center;
+}
+.nav-enlace{
+background-color: #fa8072;
+border-radius: 50%;
+color: azure;
+display: inline-block;
+padding: 30px 20px;
+text-decoration: none;
+text-shadow: -2px -2px #553835ab;
+font-size: small;
+    }
+.nav-enlace:hover{
+background: #f16b5c;
+border: 2px;
+border-color: azure;
+    }
+    
